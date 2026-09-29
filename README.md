@@ -65,10 +65,6 @@ Before moving fully into development, I spent 3+ years in leadership roles as a 
 
 ---
 
-## 📊 GitHub Stats
-![Boutayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boutayna4321&show_icons=true&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
